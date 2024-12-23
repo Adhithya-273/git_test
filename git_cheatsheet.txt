@@ -1,0 +1,6 @@
+git clone ssh-linke --> to clone the repositoru to your local machine
+git push --> to push to the branch
+git add --> to add to the staging area
+git commit --> to commit the changes you made
+git status --> check the current status of repository files
+git log -->see what you have done
